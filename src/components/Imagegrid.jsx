@@ -1,4 +1,4 @@
-import Moviecard from "./Moviecard";
+import Moviecard from "./moviecard";
 import { useEffect, useState } from "react";
 
 const Imagegrid = () => {
