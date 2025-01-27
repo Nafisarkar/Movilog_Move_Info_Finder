@@ -2,7 +2,7 @@ import { Link } from "react-router";
 import Badge from "./badge";
 
 /* eslint-disable react/prop-types */
-const genralist = {
+const  genralist = {
   genres: [
     {
       id: 28,

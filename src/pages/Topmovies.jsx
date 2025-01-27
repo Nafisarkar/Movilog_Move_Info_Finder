@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import Moviecard from "../components/moviecard";
 import { FiChevronDown, FiCalendar, FiFlag, FiMusic } from "react-icons/fi";
+import Moviecard from "../components/Moviecard";
 
 const Topmovies = () => {
   const [movies, setMovies] = useState([]);
