@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Moviecard from "../components/moviecard";
-import { Navbar } from "../components/navbar";
+import { Navbar } from "../components/Navbar";
 
 const Seachpage = () => {
   const [Moviesearch, setMoviesearch] = useState("");
