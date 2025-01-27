@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router";
-import Badge from "../components/badge";
+import Badges from "../components/Badge";
 
 const Detailspage = () => {
   const { id } = useParams();
@@ -49,13 +49,13 @@ const Detailspage = () => {
           <h1 className="text-5xl font-bold mb-4">{movie.title}</h1>
           <div className="flex flex-wrap gap-2 mb-6">
             {movie.genres.map((genre) => (
-              <Badge
+              <Badges
                 key={genre.id}
                 variant={genre.name}
                 className="px-3 py-1 rounded-full bg-gray-800 text-sm font-medium"
               >
                 {genre.name}
-              </Badge>
+              </Badges>
             ))}
           </div>
         </div>
