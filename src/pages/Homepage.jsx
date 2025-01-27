@@ -1,4 +1,4 @@
-import Imagegrid from "../components/imagegrid";
+import Imagegrid from "../components/Imagegrid";
 
 const Homepage = () => {
   return (
