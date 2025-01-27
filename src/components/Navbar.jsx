@@ -11,10 +11,10 @@ export const Navbar = () => {
           <img
             src="https://www.pngplay.com/wp-content/uploads/6/Cinema-Logo-PNG-Clipart-Background.png"
             className="h-8"
-            alt="MoveInfo Logo"
+            alt="Movilog Logo"
           />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-            MoveInfo
+            Movilog
           </span>
         </Link>
         <button
