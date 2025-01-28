@@ -1,6 +1,6 @@
 # Moviepedia - Movie Details and Search Web Application
 
-![banner](https://i.ibb.co.com/S344jBB/movilog.png)
+![banner](https://i.ibb.co.com/qN24rc0/moviloglow.png)
 Moviepedia is a web application designed to provide detailed information about movies. Users can explore trending movies, search for specific movies, and filter results by year, language, and genre. The application offers a comprehensive platform for movie enthusiasts to discover and learn more about their favorite films.
 
 ## Features
